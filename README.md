@@ -1,3 +1,4 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=Ryandinulfatah12&show_icons=true)
 - 👋 Hi, I’m @NoviHe
 - 👀 I’m interested in WEB PROGRAMING & MOBILE PROGRAMING
 - 🌱 I’m currently learning LARAVEL FRAMEWORK
